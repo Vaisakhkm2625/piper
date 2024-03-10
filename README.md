@@ -1,5 +1,20 @@
 ![Piper logo](etc/logo.png)
 
+
+----
+> ⚠️this is a temporary fork for  experimenting with server 
+added flake in ./src/python_run/ and models in ./src/python_run/models/ 
+
+run using  
+
+```
+python3 -m piper.http_server --model models/en_US-lessac-medium.onnx
+```
+
+
+----
+
+
 A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
 Piper is used in a [variety of projects](#people-using-piper).
 
